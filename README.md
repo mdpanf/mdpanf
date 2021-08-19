@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Maxim 
 
-My name is Maxim Panfilov & I live in Moscow, Russia. Contact me via [Telegram](https://t.me/mdpanf).
+Contact me via [Telegram](https://t.me/mdpanf).
 
 ## A little about me
 
