@@ -2,6 +2,8 @@
 
 Contact me via [Telegram](https://t.me/mdpanf).
 
+For educational projects at the university, I use [GitLab](https://gitlab.com/mdpanf)
+
 ## A little about me
 
 - 🔭 I’m currently working on my blog.
