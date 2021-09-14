@@ -5,7 +5,7 @@
 - 💻 I am currently studying Machine Learning technologies;
 - 🌱 Learning Python, Cpp, Java, Go;
 - 👨🏼‍💻 My specialty is _Information systems and technologies_ at the university;
-- 🎴 Now I'm working on my [blog-page](https://mdpanf.github.io).
+- 🎴 And working on my [blog-page](https://mdpanf.github.io).
 
 ---
 
