@@ -50,5 +50,6 @@
 
 
 
-### 💛 &nbsp;Favourite repos
-[![My dots](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=dots&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)]()
+### 💛 &nbsp;My fav repos
+[![Exea bot](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=exea-bot&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/exea-bot)
+[![Dots](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=dots&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/dots)
