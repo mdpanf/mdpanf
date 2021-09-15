@@ -3,8 +3,8 @@
 ### 🤡 &nbsp;About Me
 
 - 💻 I am currently studying Machine Learning technologies;
-- 🌱 Learning Python, Cpp, Java, Go;
-- 👨🏼‍💻 My specialty is _Information systems and technologies_ at the university;
+- 🌱 Learning Python, Cpp, Java, Go; 
+- 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university;
 - 🎴 And working on my [blog-page](https://mdpanf.github.io).
 
 ---
