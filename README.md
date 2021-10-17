@@ -4,8 +4,9 @@
 
 - 💻 I am currently studying Machine Learning technologies;
 - 🌱 Learning Python, Cpp, Java, Go; 
-- 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university;
-- 🎴 And working on my [CV](https://mdpanf.github.io).
+- 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university.
+
+All my study projects are on [GitLab](https://gitlab.com/mdpanf)
 
 ---
 
@@ -51,5 +52,4 @@
 
 
 ### 💛 &nbsp;My fav repos
-[![Exea bot](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=exea-bot&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/exea-bot)
-[![Linux scripts](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=linux-scripts&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/linux-scripts)
+[![tgm-notifier](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=tgm-notifier&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/tgm-notifier)
