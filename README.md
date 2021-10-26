@@ -3,7 +3,7 @@
 ### 🤡 &nbsp;About Me
 
 - 💻 I am currently studying Machine Learning technologies;
-- 🌱 Learning Python, Cpp, Java, Go; 
+- 🌱 Learning Python, Cpp, Java, Go, QT; 
 - 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university.
 
 All my study projects are on [GitLab](https://gitlab.com/mdpanf)
