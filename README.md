@@ -51,5 +51,5 @@ All my study projects are on [GitLab](https://gitlab.com/mdpanf)
 
 
 ### 💛 &nbsp;My fav repos
-[![tgm-startup-notifier](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=tgm-startup-notifier&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/tgm-startup-notifier)
-[![tgm-ssh-notifier](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=tgm-ssh-notifier&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/tgm-ssh-notifier)
+[![startup-notifier](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=tgm-startup-notifier&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/tgm-startup-notifier)
+[![ssh-notifier](https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=tgm-ssh-notifier&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&show_owner=true)](https://github.com/mdpanf/tgm-ssh-notifier)
