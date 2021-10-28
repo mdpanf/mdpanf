@@ -6,7 +6,7 @@
 - 🌱 Learning Python, Cpp, Java, Go, QT; 
 - 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university.
 
-All my study projects are on [GitLab](https://gitlab.com/mdpanf)
+All my educational projects are on [GitLab](https://gitlab.com/mdpanf)
 
 ---
 
