@@ -9,12 +9,11 @@
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=mdpanf&color=003153"/>
- <img src="https://badges.pufler.dev/visits/mdpanf/mdpanf?color=003153"/> 
-
- <img src="https://badges.pufler.dev/years/mdpanf?color=003153"/>
- <img src="https://badges.pufler.dev/repos/mdpanf?color=003153"/>
- <img src="https://badges.pufler.dev/commits/monthly/mdpanf?color=003153"/>
+ <img src="https://komarev.com/ghpvc/?username=mdpanf&color=003153" alt="profile"/>
+ <!-- <img src="https://badges.pufler.dev/visits/mdpanf/mdpanf?color=003153" alt="visits"/> -->
+ <!-- <img src="https://badges.pufler.dev/years/mdpanf?color=003153" alt="years"/> -->
+ <img src="https://badges.pufler.dev/repos/mdpanf?color=003153" alt="repos"/>
+ <img src="https://badges.pufler.dev/commits/monthly/mdpanf?color=003153" alt="commits"/>
 </p>
 
 <p align="center">
