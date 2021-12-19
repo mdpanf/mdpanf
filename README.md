@@ -54,23 +54,23 @@
 <p align="center">
  <!-- Telegram -->
  <a target="_blank" rel="noopener noreferrer" href="https://t.me/mdpanf">
-  <img src="https://img.shields.io/badge/-mdpanf-2CA5E0?logo=telegram&logoColor=white&link=https://t.me/mdpanf" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/-mdpanf-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/mdpanf" alt="Telegram"/>
  </a>
  <!-- Gmail -->
  <a target="_blank" rel="noopener noreferrer" href="mailto:mdpanf@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-mdpanf-c14438?logo=Gmail&logoColor=white&link=mailto:mdpanf@gmail.com" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/-mdpanf-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdpanf@gmail.com" alt="Gmail"/>
  </a>
  <!-- LinkedIn -->
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mdpanf">
-  <img src="https://img.shields.io/badge/-mdpanf-0077B5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdpanf" alt="Linked In"/>
+  <img src="https://img.shields.io/badge/-mdpanf-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdpanf" alt="Linked In"/>
  </a>
  <!-- Proton Mail -->
  <a target="_blank" rel="noopener noreferrer" href="mailto:mdpanf@protonmail.ch">
-  <img src="https://img.shields.io/badge/-mdpanf-8B89CC?logo=protonmail&logoColor=white&link=mailto:mdpanf@protonmail.ch" alt="Proton Mail"/>
+  <img src="https://img.shields.io/badge/-mdpanf-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:mdpanf@protonmail.ch" alt="Proton Mail"/>
  </a>
  <!-- VK -->
  <a target="_blank" rel="noopener noreferrer" href="https://vk.com/mdpanf">
-  <img src="https://img.shields.io/badge/-mdpanf-2787F5?logo=vk&logoColor=white&link=https://vk.com/mdpanf" alt="VK"/>
+  <img src="https://img.shields.io/badge/-mdpanf-2787F5?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/mdpanf" alt="VK"/>
  </a>
  <br>
  <!-- Instagram -->
@@ -79,11 +79,11 @@
  </a>
  <!-- Facebook -->
  <a target="_blank" rel="noopener noreferrer" href="https://fb.com/mdpanf7">
-  <img src="https://img.shields.io/badge/-mdpanf7-1877F2?logo=facebook&logoColor=white&link=https://fb.com/mdpanf7" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/-mdpanf7-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/mdpanf7" alt="Facebook"/>
  </a>
  <!-- Dev.to -->
  <a target="_blank" rel="noopener noreferrer" href="https://dev.to/mdpanf">
-  <img src="https://img.shields.io/badge/-mdpanf-0A0A0A?logo=dev.to&logoColor=white&link=https://dev.to/mdpanf" alt="Dev.to"/>
+  <img src="https://img.shields.io/badge/-mdpanf-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mdpanf" alt="Dev.to"/>
  </a>
  <!-- Gitlab -->
  <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/mdpanf">
