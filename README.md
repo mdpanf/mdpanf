@@ -75,7 +75,7 @@
  <br>
  <!-- Instagram -->
  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mdpanf7/">
-  <img src="https://img.shields.io/badge/-mdpanf7-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/mdpanf7" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-mdpanf7-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mdpanf7" alt="Instagram"/>
  </a>
  <!-- Facebook -->
  <a target="_blank" rel="noopener noreferrer" href="https://fb.com/mdpanf7">
@@ -87,7 +87,7 @@
  </a>
  <!-- Gitlab -->
  <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/mdpanf">
-  <img src="https://img.shields.io/badge/mdpanf-330F63?logo=gitlab&logoColor=white&link=https://gitlab.com/mdpanf" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/mdpanf-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/mdpanf" alt="GitLab"/>
  </a>
 </p>
 
