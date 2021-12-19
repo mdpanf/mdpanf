@@ -90,10 +90,6 @@
  <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/mdpanf">
   <img src="https://img.shields.io/badge/mdpanf-330F63?logo=gitlab&logoColor=white&link=https://gitlab.com/mdpanf" alt="GitLab"/>
  </a>
- <!-- Uadd.me -->
- <a target="_blank" rel="noopener noreferrer" href="https://uadd.me/mdpanf">
-  <img src="https://img.shields.io/badge/uadd.me-0A0A0A?logo=element&logoColor=white&link=https://uadd.me/mdpanf" alt="Uadd.me"/>
- </a>
 </p>
 
 <h2 align="center" >⚙️ GitHub Analytics</h2>
