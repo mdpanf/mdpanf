@@ -100,7 +100,7 @@
 <h2 align="center" >💛 My fav repos</h2>
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mdpanf/gh_avatars">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=gh_avatars&show_icons=true&include_all_commits=true&hide_border=true&theme=ayu-mirage&show_owner=true" alt="startup-notifier"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=gh-avatars&show_icons=true&include_all_commits=true&hide_border=true&theme=ayu-mirage&show_owner=true" alt="startup-notifier"/>
  </a>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mdpanf/tgm-startup-notifier">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdpanf&repo=tgm-startup-notifier&show_icons=true&include_all_commits=true&hide_border=true&theme=ayu-mirage&show_owner=true" alt="startup-notifier"/>
