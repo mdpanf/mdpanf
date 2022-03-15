@@ -63,15 +63,11 @@
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mdpanf">
   <img src="https://img.shields.io/badge/-mdpanf-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdpanf" alt="Linked In"/>
  </a>
- <!-- Proton Mail -->
- <a target="_blank" rel="noopener noreferrer" href="mailto:mdpanf@protonmail.ch">
-  <img src="https://img.shields.io/badge/-mdpanf-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:mdpanf@protonmail.ch" alt="Proton Mail"/>
- </a>
+ <br>
  <!-- VK -->
  <a target="_blank" rel="noopener noreferrer" href="https://vk.com/mdpanf">
   <img src="https://img.shields.io/badge/-mdpanf-2787F5?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/mdpanf" alt="VK"/>
  </a>
- <br>
  <!-- Instagram -->
  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mdpanf7/">
   <img src="https://img.shields.io/badge/-mdpanf7-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mdpanf7" alt="Instagram"/>
