@@ -80,14 +80,6 @@
  <a target="_blank" rel="noopener noreferrer" href="https://fb.com/mdpanf7">
   <img src="https://img.shields.io/badge/-mdpanf7-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/mdpanf7" alt="Facebook"/>
  </a>
- <!-- Dev.to -->
- <a target="_blank" rel="noopener noreferrer" href="https://dev.to/mdpanf">
-  <img src="https://img.shields.io/badge/-mdpanf-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/mdpanf" alt="Dev.to"/>
- </a>
- <!-- Gitlab -->
- <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/mdpanf">
-  <img src="https://img.shields.io/badge/mdpanf-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/mdpanf" alt="GitLab"/>
- </a>
 </p>
 
 <h2 align="center" >⚙️ GitHub Analytics</h2>
