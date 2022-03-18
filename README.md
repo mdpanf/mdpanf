@@ -70,6 +70,8 @@
  </a>
 </p>
 
+<p align="center"><a href="./more-info.md">More info</a></p>
+
 
 <h2 align="center" >💛 My fav repos</h2>
 <p align="center">
