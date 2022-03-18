@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  I'm Maxim Panfilov a 2d year student pursuing Automated control systems 👨‍🎓 in Russian Technological University MIREA 🏛. I'm a diligent student who's always willing to learn and work across technologies  and adjacent domains 💫. I love to explore new technologies and leverage them to solve mundane issues 👀. Apart from that, I also love to communicate with people and help newbies 👩🏻‍💻.
+  I'm Maxim Panfilov a 2d year student pursuing Automated control systems 👨‍🎓 in Russian Technological University MIREA 🏛. I'm a diligent student who's always willing to learn and work across technologies  and adjacent domains 💫. I love to explore new technologies and leverage them to solve mundane issues 👀. Apart from that, I also love to communicate with people 👩🏻‍💻.
  <br>⥯<br>
-  Я Максим Панфилов, студент 2 курса факультета Автоматизированных систем управления 👨‍ Российского Технологического Университета МИРЭА 🏛. Я прилежный студент, который всегда готов учиться и работать в разных технологиях и смежных областях 💫. Я люблю изучать новые технологии и использовать их для решения повседневных проблем 👀 . Кроме того, я также люблю общаться с людьми и помогать новичкам 👩🏻‍💻.
+  Я Максим Панфилов, студент 2 курса факультета Автоматизированных систем управления 👨‍ Российского Технологического Университета МИРЭА 🏛. Я прилежный студент, который всегда готов учиться и работать в разных технологиях и смежных областях 💫. Я люблю изучать новые технологии и использовать их для решения повседневных проблем 👀 . Кроме того, я также люблю общаться с людьми 👩🏻‍💻.
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
