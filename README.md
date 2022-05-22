@@ -87,4 +87,4 @@
 </div>
 
 <hr>
-<p align="center">Feel free to 🍴 and ⭐ this repo.</p>
+<p align="center">Feel free to ⭐ and 🍴 this repo.</p>
