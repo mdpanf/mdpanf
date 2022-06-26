@@ -4,11 +4,8 @@
     src="https://readme-typing-svg.herokuapp.com?color=%2380AFF7&center=true&vCenter=true&lines=Hi+there!;I+love+programming+📝" />
   <h1>Panfilov M.D.</h1>
   <img align="left" src="https://komarev.com/ghpvc/?username=mdpanf&color=003153" alt="my profile" />
-  <a href="https://vk.com/mdpanf">
-    <img align="right" alt="MDPanf | VK" width="20px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" />
-  </a>
-  <a href="https://t.me/mdpanf">
-    <img align="right" alt="MDPanf | Telegram" width="20px"
+  <a href="https://t.me/panfilovmd">
+    <img align="right" alt="PanfilovMD | Telegram" width="20px"
       src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
   </a>
   <hr>
